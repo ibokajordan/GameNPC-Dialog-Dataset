@@ -68,10 +68,12 @@ Each record in the dataset follows a structured JSON format that includes domain
     "en": ["mechanics", "force", "basic_concept"]
   }
 }
+```
 
 ---
 ## 📊 Field Descriptions
 
+![Schema](https://img.shields.io/badge/Schema-Field%20Descriptions-blue)
 ![Metadata](https://img.shields.io/badge/Metadata-NPC%20%7C%20Dialogue%20%7C%20Labels-green)
 ![Language](https://img.shields.io/badge/Language-Turkish%20%7C%20English-orange)
 ![Tags](https://img.shields.io/badge/Tags-Semantic%20Keywords-purple)
