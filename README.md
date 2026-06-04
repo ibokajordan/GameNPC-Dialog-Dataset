@@ -1,5 +1,8 @@
-# GameNPC-Dialog-Dataset
-GameNPC-Dialog Dataset is English and Turkish  task-oriented and social dialogue dataset designed for intelligent NPC interactions in digital game, metaverse, and VR environments.
+# 🎮 GameNPC-Dialog Dataset
+
+🌐 **English–Turkish Task-Oriented and Social Dialogue Dataset for Intelligent NPC Interaction**
+
+---
 
 
 GameNPC-Dialog Dataset
