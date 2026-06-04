@@ -69,7 +69,7 @@ Each record in the dataset follows a structured JSON format that includes domain
   }
 }
 
-
+---
 ## 📊 Field Descriptions
 
 ![Schema](https://img.shields.io/badge/Schema-Field%20Descriptions-blue)
@@ -79,24 +79,24 @@ Each record in the dataset follows a structured JSON format that includes domain
 
 The following table describes the main fields used in the **GameNPC-Dialog Dataset**.
 
-| Field                        | Description                                               |
-| ---------------------------- | --------------------------------------------------------- |
-| 🆔 `id`                      | Unique identifier for each dialogue record                |
-| 🌐 `domain_id`               | Detailed scenario or sub-domain identifier                |
-| 📚 `domain`                  | General domain or topic category                          |
-| 🎭 `npc.role`                | The role or identity of the NPC                           |
-| 🗣️ `npc.role_style`         | The communicative or instructional style of the NPC       |
-| 🎬 `npc.roleplay_style`      | The role-playing behavior or interaction style of the NPC |
-| 🇹🇷 `dialogue.question_tr`  | Player question in Turkish                                |
-| 🇬🇧 `dialogue.question_en`  | Player question in English                                |
-| 🤖 `dialogue.answer_tr`      | NPC answer in Turkish                                     |
-| 🤖 `dialogue.answer_en`      | NPC answer in English                                     |
-| 🎯 `labels.intent`           | General communicative intent of the dialogue              |
-| 🧑‍💻 `labels.player_intent` | Player-specific dialogue intention                        |
-| 😊 `labels.emotion`          | Emotional or tonal category of the response               |
-| 🕹️ `labels.game_context`    | In-game context or interaction scenario                   |
-| 📊 `labels.difficulty_level` | Difficulty level of the dialogue content                  |
-| 🏷️ `tags.tr`                | Turkish semantic tags                                     |
-| 🏷️ `tags.en`                | English semantic tags                                     |
+| Field                     | Description                                               |
+| ------------------------- | --------------------------------------------------------- |
+| `id`                      | Unique identifier for each dialogue record                |
+| `domain_id`               | Detailed scenario or sub-domain identifier                |
+| `domain`                  | General domain or topic category                          |
+| `npc.role`                | The role or identity of the NPC                           |
+| `npc.role_style`          | The communicative or instructional style of the NPC       |
+| `npc.roleplay_style`      | The role-playing behavior or interaction style of the NPC |
+| `dialogue.question_tr`    | Player question in Turkish                                |
+| `dialogue.question_en`    | Player question in English                                |
+| `dialogue.answer_tr`      | NPC answer in Turkish                                     |
+| `dialogue.answer_en`      | NPC answer in English                                     |
+| `labels.intent`           | General communicative intent of the dialogue              |
+| `labels.player_intent`    | Player-specific dialogue intention                        |
+| `labels.emotion`          | Emotional or tonal category of the response               |
+| `labels.game_context`     | In-game context or interaction scenario                   |
+| `labels.difficulty_level` | Difficulty level of the dialogue content                  |
+| `tags.tr`                 | Turkish semantic tags                                     |
+| `tags.en`                 | English semantic tags                                     |
 
 ---
