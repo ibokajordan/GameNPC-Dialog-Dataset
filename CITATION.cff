@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it using the metadata below."
+title: "GameNPC-Dialog Dataset: Task-oriented dataset for intelligent NPC interaction in digital game environments"
+type: Dataset
+
+authors:
+
+family-names: "Özkal"
+given-names: "İbrahim"
+
+affiliation: "Tokat Gaziosmanpasa University, Department of Software, Application Development and Analysis, Game Development and Programming"
+country: "Tokat/Türkiye"
+
+family-names: "Başçiftçi"
+given-names: "Faih"
+
+affiliation: "Selçuk University, Faculty of Technology, Department of Computer Engineering"
+country: "Konya/Türkiye"
+
+year: 2026
+date-released: 2026-06-01
+
+abstract: "GameNPC-Dialog Dataset is English and Turkish task-oriented and social dialogue dataset designed for intelligent Non-Player Character (NPC) interactions in digital game, metaverse, and virtual reality environments. The dataset supports research on context-aware, role-consistent, and goal-oriented NPC dialogue generation, as well as retrieval-augmented generation, fine-tuning, and evaluation of large language model-based NPC systems."
+
+keywords:
+
+"NPC dialogue"
+"game dialogue dataset"
+"Turkish NLP"
+"task-oriented dialogue"
+"social dialogue"
+"metaverse"
+"virtual reality"
+"large language models"
+"retrieval-augmented generation"
+"fine-tuning"
+"game AI"
+"conversational agents"
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/your-username/GameNPC-Dialog-Dataset"
+url: "https://github.com/your-username/GameNPC-Dialog-Dataset"
+
+preferred-citation:
+type: dataset
+title: "GameNPC-Dialog Dataset: A Turkish Task-Oriented and Social Dialogue Dataset for Intelligent NPC Interaction"
+authors:
+- family-names: "Özkal"
+given-names: "İbrahim"
+affiliation: "Tokat Gaziosmanpaşa University, Tokat Vocational School, Game Development and Programming Program"
+country: "Türkiye"
+year: 2026
+publisher:
+name: "GitHub"
+license: "CC-BY-4.0"
+url: "https://github.com/your-username/GameNPC-Dialog-Dataset"
