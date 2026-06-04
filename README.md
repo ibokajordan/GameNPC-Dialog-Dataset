@@ -101,3 +101,102 @@ The following table describes the main fields used in the **GameNPC-Dialog Datas
 | `tags.en`                 | English semantic tags                                     |
 
 ---
+
+## 📄 Citation Metadata
+
+![Citation](https://img.shields.io/badge/Citation-CFF%20Metadata-blue)
+![Dataset](https://img.shields.io/badge/Type-Dataset-green)
+![Year](https://img.shields.io/badge/Year-2026-orange)
+![License](https://img.shields.io/badge/Use-Cite%20Required-purple)
+![Research](https://img.shields.io/badge/Research-NPC%20Dialogue-brightgreen)
+
+If you use the **GameNPC-Dialog Dataset** in your research, please cite it using the metadata below.
+
+---
+
+### 🧾 Citation Information
+
+| Field                 | Information                                                                                                |
+| --------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 📌 **Title**          | GameNPC-Dialog Dataset: Task-oriented dataset for intelligent NPC interaction in digital game environments |
+| 🗂️ **Type**          | Dataset                                                                                                    |
+| 📅 **Year**           | 2026                                                                                                       |
+| 🗓️ **Date Released** | 2026-06-01                                                                                                 |
+| 🌐 **Languages**      | English and Turkish                                                                                        |
+| 🎮 **Research Area**  | NPC dialogue, game AI, metaverse, virtual reality, large language models                                   |
+
+---
+
+### 👥 Authors
+
+| Author              | Affiliation                                                                                                                    | Location        |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| **İbrahim ÖZKAL**   | Tokat Gaziosmanpaşa University, Department of Software, Application Development and Analysis, Game Development and Programming | Tokat / Türkiye |
+| **Fatih BAŞÇİFTÇİ** | Selçuk University, Faculty of Technology, Department of Computer Engineering                                                   | Konya / Türkiye |
+
+---
+
+### 📝 Abstract
+
+**GameNPC-Dialog Dataset** is an **English and Turkish task-oriented and social dialogue dataset** designed for intelligent **Non-Player Character (NPC)** interactions in **digital game**, **metaverse**, and **virtual reality** environments.
+
+The dataset supports research on **context-aware**, **role-consistent**, and **goal-oriented NPC dialogue generation**, as well as **retrieval-augmented generation (RAG)**, **fine-tuning**, and evaluation of **large language model-based NPC systems**.
+
+---
+
+### 🔑 Keywords
+
+![NPC Dialogue](https://img.shields.io/badge/NPC-dialogue-blue)
+![Game Dataset](https://img.shields.io/badge/Game-dialogue%20dataset-green)
+![Turkish NLP](https://img.shields.io/badge/Turkish-NLP-red)
+![Task-Oriented](https://img.shields.io/badge/Task--oriented-dialogue-orange)
+![Social Dialogue](https://img.shields.io/badge/Social-dialogue-purple)
+![Metaverse](https://img.shields.io/badge/Metaverse-ready-lightgrey)
+![VR](https://img.shields.io/badge/Virtual-Reality-blueviolet)
+![LLM](https://img.shields.io/badge/Large%20Language-Models-brightgreen)
+![RAG](https://img.shields.io/badge/RAG-supported-yellow)
+![Fine-Tuning](https://img.shields.io/badge/Fine--tuning-ready-critical)
+![Game AI](https://img.shields.io/badge/Game-AI-informational)
+![Conversational Agents](https://img.shields.io/badge/Conversational-Agents-success)
+
+---
+
+### 📌 CITATION.cff Preview
+
+```yaml
+message: "If you use this dataset in your research, please cite it using the metadata below."
+title: "GameNPC-Dialog Dataset: Task-oriented dataset for intelligent NPC interaction in digital game environments"
+type: dataset
+
+authors:
+  - family-names: "Özkal"
+    given-names: "İbrahim"
+    affiliation: "Tokat Gaziosmanpaşa University, Department of Software, Application Development and Analysis, Game Development and Programming"
+    country: "Tokat/Türkiye"
+
+  - family-names: "Başçiftçi"
+    given-names: "Fatih"
+    affiliation: "Selçuk University, Faculty of Technology, Department of Computer Engineering"
+    country: "Konya/Türkiye"
+
+year: 2026
+date-released: 2026-06-01
+
+abstract: "GameNPC-Dialog Dataset is English and Turkish task-oriented and social dialogue dataset designed for intelligent Non-Player Character (NPC) interactions in digital game, metaverse, and virtual reality environments. The dataset supports research on context-aware, role-consistent, and goal-oriented NPC dialogue generation, as well as retrieval-augmented generation, fine-tuning, and evaluation of large language model-based NPC systems."
+
+keywords:
+  - "NPC dialogue"
+  - "game dialogue dataset"
+  - "Turkish NLP"
+  - "task-oriented dialogue"
+  - "social dialogue"
+  - "metaverse"
+  - "virtual reality"
+  - "large language models"
+  - "retrieval-augmented generation"
+  - "fine-tuning"
+  - "game AI"
+  - "conversational agents"
+```
+
+---
