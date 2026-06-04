@@ -4,12 +4,18 @@
 
 ---
 
+# 🎮 GameNPC-Dialog Dataset
 
-GameNPC-Dialog Dataset
+![Dataset](https://img.shields.io/badge/Dataset-GameNPC--Dialog-blue)
+![Language](https://img.shields.io/badge/Language-English%20%7C%20Turkish-green)
+![RAG](https://img.shields.io/badge/RAG-Supported-brightgreen)
+![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-Ready-red)
+![NPC](https://img.shields.io/badge/NPC-Dialogue-purple)
 
-GameNPC-Dialog Dataset is English - Turkish task-oriented and social dialogue dataset designed for intelligent Non-Player Character (NPC) interactions in digital game, metaverse, and virtual reality environments. The dataset aims to support the development, fine-tuning, retrieval-augmented generation (RAG), and evaluation of large language model-based NPC dialogue systems.
+**GameNPC-Dialog Dataset** is an **English–Turkish task-oriented and social dialogue dataset** designed for intelligent **Non-Player Character (NPC)** interactions in **digital game**, **metaverse**, and **virtual reality** environments.
 
-The dataset provides structured dialogue samples that combine player questions, NPC responses, role information, dialogue intent, emotional tone, game context, difficulty level, and bilingual Turkish-English content. It is designed to contribute to research on context-aware, role-consistent, and goal-oriented NPC communication, particularly for low-resource language settings.
+The dataset supports **fine-tuning**, **retrieval-augmented generation (RAG)**, and evaluation of **large language model-based NPC dialogue systems**.
+
 
 Overview
 
